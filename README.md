@@ -5,4 +5,4 @@ https://jacob-baines.github.io/turnscan.js/index.html
 
 Read a full explanation here:
 
-https://medium.com/@jbaines/using-webrtc-ice-servers-for-port-scanning-in-chrome-ce17b19dd474
+https://medium.com/tenable-techblog/using-webrtc-ice-servers-for-port-scanning-in-chrome-ce17b19dd474
