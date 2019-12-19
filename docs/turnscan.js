@@ -40,7 +40,7 @@
     if (navigator.userAgent.includes("Chrome") == false) {
       // inform the user we ain't doin' nothin'
       document.getElementById("status").innerHTML = "Chrome browser not detected. Nothing to do.";
-      //return;
+      return;
     }
 
     if (window.location.href.includes("?sleep=1")) {
